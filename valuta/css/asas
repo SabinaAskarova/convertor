@@ -1,0 +1,20 @@
+.valyuta-name:hover {
+    background: #9b65e7;
+    color: white;
+    transition: 0.5s;
+}
+
+.nav-link:hover {
+    opacity: 0.7;
+}
+
+.valyuta-name:hover {
+    background: #9b65e7;
+    color: white;
+    transition: 0.5s;
+}
+
+input[type=radio]:checked~label:hover {
+    background: #9b65e7;
+    color: white;
+}
