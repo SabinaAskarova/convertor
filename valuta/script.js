@@ -48,7 +48,7 @@ async function getData(e) {
         }
 
     } catch (err) {
-        alert("Net Err")
+        alert("No Internet!")
 
     }
 }
